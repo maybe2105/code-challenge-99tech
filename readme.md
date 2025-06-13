@@ -1,9 +1,18 @@
-# PROBLEM 1 & 2
+# PROBLEM 1
 
 ```bash
 npm run problem1
+```
+
+# PROBLEM 2
+
+need vite install
+
+```bash
 npm run problem2
 ```
+
+access <a> http://localhost:4173/</a>
 
 # PROBLEM 3
 
