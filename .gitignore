@@ -1,0 +1,11 @@
+node_modules
+
+src/problem2/node_modules
+src/problem2/dist
+src/problem2/dist-ssr
+src/problem2/*.local
+
+src/problem2/.vscode/*
+src/problem2/.idea
+src/problem2/.DS_Store
+src/problem2/*.suo
