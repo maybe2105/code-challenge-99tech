@@ -1,3 +1,7 @@
 # HOW TO RUN PROBLEM
 
-npm preview
+```js
+npm run preview
+```
+
+access <a>http://localhost:4173/</a>
