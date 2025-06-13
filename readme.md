@@ -1,10 +1,12 @@
-# 99Tech Code Challenge #1 #
+# PROBLEM 1 & 2
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+```bash
+npm run problem1
+npm run problem2
+```
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+# PROBLEM 3
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+[Problem file with comments](/src/problem3_messyreact/problem.tsx)
+
+[Fixed file](/src/problem3_messyreact/fixed.tsx)

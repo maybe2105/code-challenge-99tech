@@ -4,7 +4,8 @@
   "description": "Interview preparation",
   "main": "index.js",
   "scripts": {
-    "problem1": "node src/problem1_threeways/index.js"
+    "problem1": "node src/problem1_threeways/index.js",
+    "problem2": "npm run preview --prefix src/problem2_tokenswaps"
   },
   "author": "John Doe",
   "license": "ISC",
